@@ -1,0 +1,1 @@
+Um teste tecnico, baseado em um desafio em criar uma API RESful usando node.js e Express, que deve premitir operacoes CRUD, um frontend com React.js cosumindo a API onde o usario pode ver a lista, de produtos delete e adicione e a parte final, fazendo o deploy e fazendo a intregacao do frontend com a API backend das duas parte
