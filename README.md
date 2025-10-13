@@ -1,4 +1,4 @@
-# 🧠 Guia Técnico — Node.js, React.js, Bancos de Dados e Git
+# 🧠 Teste Técnico Salvus — Node.js, React.js, Bancos de Dados e Git
 
 Este documento reúne explicações claras e objetivas sobre conceitos fundamentais de **Node.js**, **React.js**, **bancos de dados** e **Git**.  
 Ideal para entrevistas técnicas, estudos ou revisões rápidas.
